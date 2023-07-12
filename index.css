@@ -1,10 +1,5 @@
 /*======= Font rengini #3C373B yapan bir yeni bir universal selector yaratın*/
 * {
-  border: 1px solid tomato;
-  background: rgba(47, 205, 123, 0.2);
-  box-sizing: border-box;
-}
-* {
   color: #3c373b;
 }
 body {
